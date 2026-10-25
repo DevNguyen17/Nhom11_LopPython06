@@ -1,0 +1,37 @@
+============================================================
+BẢNG PHÂN CÔNG NHIỆM VỤ ĐỒ ÁN LẬP TRÌNH PYTHON
+Đề tài: Ứng dụng Quản lý Bãi đỗ xe (Đề tài số 18)
+Quy mô nhóm: 04 thành viên (1 Nhóm trưởng + 3 Thành viên)
+============================================================
+
+1. THÔNG TIN NHÓM VÀ VAI TRÒ CHÍNH
+------------------------------------------------------------
+- Nhóm trưởng (Thành viên 1): [Họ tên Nhóm trưởng] - MSSV: [Mã số]
+  + Vai trò: Quản lý kiến trúc hệ thống, điều phối Git, tích hợp ứng dụng chính (main.py), 
+    xây dựng Lớp Phân quyền tài khoản (Admin/User), đóng gói ứng dụng (.exe).
+
+- Thành viên 2: [Họ tên Thành viên 2] - MSSV: [Mã số]
+  + Vai trò: Thiết kế các Lớp dữ liệu (Models - PhuongTien, XeOTo, XeMay), xử lý đọc/ghi 
+    file JSON an toàn, kiểm tra Regex dữ liệu (Biển số xe, SĐT, Email).
+
+- Thành viên 3: [Họ tên Thành viên 3] - MSSV: [Mã số]
+  + Vai trò: Xây dựng Lớp Quản lý nghiệp vụ (BaiDoXeManager), lập trình các chức năng 
+    CRUD (Thêm xe vào, Cho xe ra, Cập nhật vị trí, Xóa) và tìm kiếm/lọc dữ liệu.
+
+- Thành viên 4: [Họ tên Thành viên 4] - MSSV: [Mã số]
+  + Vai trò: Thiết kế Giao diện Tkinter (gui.py), bảng dữ liệu Treeview, mô phỏng sơ đồ 
+    bãi đỗ bằng Canvas, chức năng Crawl/API dữ liệu thời tiết/bảng giá và vẽ biểu đồ thống kê.
+
+2. BẢNG CHI TIẾT CÔNG VIỆC VÀ TỶ LỆ ĐÓNG GÓP (MỖI THÀNH VIÊN 25%)
+---------------------------------------------------------------------------------------
+| STT | Nội dung công việc                                  | Người thực hiện | Đóng góp |
+|-----|-----------------------------------------------------|-----------------|----------|
+| 1   | Thiết kế cấu trúc OOP, Lớp Dữ liệu (models.py)     | Thành viên 2    | 25%      |
+| 2   | Xử lý Đọc/Ghi File JSON, Sao lưu & Kiểm tra Regex  | Thành viên 2    | 25%      |
+| 3   | Xây dựng Lớp Quản lý Nghiệp vụ & Chức năng CRUD    | Thành viên 3    | 25%      |
+| 4   | Xây dựng Chức năng Tìm kiếm, Lọc & Tính phí tự động| Thành viên 3    | 25%      |
+| 5   | Thiết kế Giao diện Tkinter (Layout, Treeview, Menu) | Thành viên 4    | 25%      |
+| 6   | Vẽ Sơ đồ bãi đỗ Canvas, Biểu đồ Thống kê & Crawl API| Thành viên 4    | 25%      |
+| 7   | Xây dựng Lớp Phân quyền Tài khoản (Admin & User)    | Nhóm trưởng     | 25%      |
+| 8   | Tổng hợp Code, Quản lý Git Repo & Đóng gói App     | Nhóm trưởng     | 25%      |
+================================================================-----------------------
